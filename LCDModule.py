@@ -3,9 +3,6 @@
 # Includes WaveShare driver Demo Code with typos and errors corrected
 from machine import Pin,SPI,PWM
 import framebuf
-import utime
-import os
-import math
 
 
 BL = 13
